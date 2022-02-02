@@ -46,7 +46,7 @@ const { welmenu } = require('./src/welmenu')
 const { addMetadata } = require('./lib/exif.js')
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Felix😎🤙🏻\n' 
+            + 'FN:¥Alpha_ØFC¥\n' 
             + 'ORG:Creador De FX-BOT-V72\n' 
             + 'TEL;type=CELL;type=VOICE;waid=12603763944:+1 (260) 376-3944\n' 
             + 'END:VCARD'
@@ -265,7 +265,7 @@ FxBot.on('chat-update', async (mek) => {
 			waitmusic: '「 ❗ 」 Espera! Estoy buscando tu musica\nEn cuánto la encuentre la envío!!',
 			waitimg: '「 ❗ 」 Espera! Estoy creando tu imagen!',
 			nsfwoff: '「 ❗ 」La Funcion De Nsfw No Está Activa!',
-					musica: 'Espera un momento, estoy buscando tu canción, recuerda suscribirte a mi canal de YouTube😎🤙🏻',
+					musica: 'Espera un momento, estoy buscando tu canción, recuerda seguirme en TikTok o Instagram',
 			imageoff: '「 ❗ 」No Puedo Enviar Fotos Mientras No Esta Activa La Función!',
 			error: {
 				stick: '「 ❗ 」F no se pudo convertir:/',
@@ -1160,7 +1160,7 @@ case prefix+ 'tovid':
 			fs.unlinkSync(media)
 			if (err) return reply('Bueno, falló, inténtalo de nuevo ^_^')
 			buffer = fs.readFileSync(ran)
-			fakethumb(buffer,'ℱℯ𝓁𝒾𝓍𝒸𝓇𝒶𝒸𝓀 ℬ𝒪𝒯')
+			fakethumb(buffer,𝑵𝒆𝒌𝒐𝒕𝒊𝒏𝒆-𝑩𝑶𝑻)
 			fs.unlinkSync(ran)
 			})
 			break
