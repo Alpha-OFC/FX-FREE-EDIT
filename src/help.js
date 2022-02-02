@@ -4,7 +4,7 @@ const help = (prefix) => {
 ❍➣ *INFORMACION*
 
  Comando : ⌜ ${prefix} ⌟
-Creador : Felixcrack
+Creador : ¥Alpha_ØFC¥
 Créditos Del Menu Shanduy
 
 ❍➣ ¿Tutoriales de crear bots?
@@ -89,7 +89,7 @@ Responde esta encuesta:
 ❏ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
 ❍➣ *CRÉDITOS*
-  │ Felixcrack : https://bit.ly/Felixcrack-409-YT
+  │ ¥Alpha_ØFC¥ : https://vm.tiktok.com/ZMLNSV3YV/
   │ Shanduy : http://bit.ly/Shandñuy
   │ ÆZT : http://bit.ly/ÆZT
   ╰❏     
