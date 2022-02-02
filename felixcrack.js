@@ -1,5 +1,5 @@
 // © Copyright Felixcrack 409 | FX-BOT
-// Bot By Felixcrack
+// Bot By ¥Alpha_ØFC¥
 // Si modificas deja créditos
 
 //Modulos NPM
@@ -131,10 +131,10 @@ FxBot.on('group-participants-update', async (anu) => {
 ┃   「 *_BIENVENIDO_* 」
 ┗━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━
-┠⊷️ *Suscríbete*:
-┠⊷️*http://bit.ly/2ZUH2jP
-┠⊷️ *Grupo Oficial*:
-┠⊷️ *http://bit.ly/3hpkba4
+┠⊷️ *TikTok*:
+┠⊷️ *https://vm.tiktok.com/ZMLNSV3YV/
+┠⊷️ *Instagram*:
+┠⊷️ *https://www.instagram.com/invites/contact/?i=1qp4vqk0sej50&utm_content=nd5ydrh
 ┗━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━
 ┠⊷️「 *DESCRIPCIÓN* 」
@@ -265,7 +265,7 @@ FxBot.on('chat-update', async (mek) => {
 			waitmusic: '「 ❗ 」 Espera! Estoy buscando tu musica\nEn cuánto la encuentre la envío!!',
 			waitimg: '「 ❗ 」 Espera! Estoy creando tu imagen!',
 			nsfwoff: '「 ❗ 」La Funcion De Nsfw No Está Activa!',
-					musica: 'Espera un momento, estoy buscando tu canción, recuerda suscribirte a mi canal de YouTube😎🤙🏻',
+					musica: 'Espera un momento, estoy buscando tu canción, recuerda seguirme en TikTok y en Instagram',
 			imageoff: '「 ❗ 」No Puedo Enviar Fotos Mientras No Esta Activa La Función!',
 			error: {
 				stick: '「 ❗ 」F no se pudo convertir:/',
@@ -275,7 +275,7 @@ FxBot.on('chat-update', async (mek) => {
 			only: {
 				group: '「 ❗ 」Este Comando Solo Puede Ser Usado En Grupos',
 				admin: '「 ❗ 」No Eres Admin 💩',
-				Badmin: '「 ❗ 」 Necesito Ser Admin Para Este Comando'
+				Badmin: '「 ❗ 」 Necesito Ser Admin Para Este Comando¯\_(ツ)_/¯'
 			}
 		}
 		const isUrl = (url) => {
@@ -413,7 +413,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: 'status@broadcast' } : 
 'mimetype': 'image/jpeg',
  'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')
 },
-'title': `𝗙𝗫-𝗕𝗢𝗧`,
+'title': `*Nekotine-BOT*`,
 'productImageCount': 0
 },
 'businessOwnerJid': `0@s.whatsapp.net`
