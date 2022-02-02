@@ -413,7 +413,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: 'status@broadcast' } : 
 'mimetype': 'image/jpeg',
  'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')
 },
-'title': `𝗙𝗫-𝗕𝗢𝗧`,
+'title': `*Nekotine-BOT*`,
 'productImageCount': 0
 },
 'businessOwnerJid': `0@s.whatsapp.net`
