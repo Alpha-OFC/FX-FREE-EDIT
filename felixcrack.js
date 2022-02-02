@@ -131,10 +131,10 @@ FxBot.on('group-participants-update', async (anu) => {
 ┃   「 *_BIENVENIDO_* 」
 ┗━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━
-┠⊷️ *Suscríbete*:
-┠⊷️*http://bit.ly/2ZUH2jP
-┠⊷️ *Grupo Oficial*:
-┠⊷️ *http://bit.ly/3hpkba4
+┠⊷️ *Sígueme-en-TikTok-e-Instagram*:
+┠⊷️*https://github.com/Alpha0fc/NK-BOT
+┠⊷️ *Instagram*:
+┠⊷️ *https://www.instagram.com/invites/contact/?i=1qp4vqk0sej50&utm_content=nd5ydrh
 ┗━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━
 ┠⊷️「 *DESCRIPCIÓN* 」
