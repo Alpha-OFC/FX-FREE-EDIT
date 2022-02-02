@@ -1,5 +1,5 @@
 {
-  "name": "felixcrack-bot",
+  "name": "Nekotine-BOT",
   "version": "0.0.72",
   "description": "No comment",
   "main": "felixcrack.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Felixcrack",
+  "author": "¥Alpha_ØFC¥",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
